@@ -4,3 +4,5 @@
 05.30 => 프로젝트 후 tensorflow 기초 실습 (버전 확인, 연산 함수)
 
 05.31 => Keras / KerasClassifier(), checkpoint, tensorboard, Regressor
+
+06.01 => CNN (channel, convolution, filter, stride, padding, pooling)
