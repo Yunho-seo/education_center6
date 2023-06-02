@@ -6,3 +6,5 @@
 05.31 => Keras / KerasClassifier(), checkpoint, tensorboard, Regressor
 
 06.01 => CNN (channel, convolution, filter, stride, padding, pooling)
+
+06.02 => CNN 모델의 발전과 Transfer learning (성능 개선 방법, 네트워크 구조)
