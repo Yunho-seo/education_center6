@@ -8,3 +8,5 @@
 06.01 => CNN (channel, convolution, filter, stride, padding, pooling)
 
 06.02 => CNN 모델의 발전과 Transfer learning (성능 개선 방법, 네트워크 구조)
+
+06.03 => Text Mining의 모델 변화 (seq2seq, LSTM, Attention ...)
