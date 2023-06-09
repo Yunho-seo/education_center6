@@ -12,3 +12,5 @@
 06.05 => Text Mining의 모델 변화 (seq2seq, LSTM, Attention ...)
 
 06.07 => 비지도학습 (UpSampling, Autoencoding, denoise, GAN)
+
+06.09 => MQTT (front-end / back-end)
