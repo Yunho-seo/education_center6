@@ -14,3 +14,5 @@
 06.07 => 비지도학습 (UpSampling, Autoencoding, denoise, GAN)
 
 06.09 => MQTT (front-end / back-end)
+
+06.12 => Flutter / Dart언어 기본(Button, Image, Listview)
